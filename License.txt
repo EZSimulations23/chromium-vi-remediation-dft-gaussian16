@@ -1,0 +1,31 @@
+# License
+
+## Original Repository Materials
+
+Unless otherwise indicated, the original materials in this repository are made available under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You may share and adapt the covered materials for any purpose, including commercial purposes, provided that you comply with the license terms, including appropriate attribution, a link to the license, and an indication of whether changes were made.
+
+Full license text:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Attribution
+
+When reusing or adapting original repository materials, please provide appropriate credit to the original creators and cite the associated research article:
+
+*Remediation of hexavalent chromium in groundwater: Kinetic and DFT study of the termolecular transition state involving monochromate, oxalic acid and ethanol.*
+
+Include the article's complete citation and DOI when available.
+
+## Third-Party Materials and Software
+
+This license does not grant rights to third-party software, trademarks, or other materials that the repository's contributors are not authorized to license.
+
+In particular, Gaussian 16 is proprietary third-party software. Its software license and applicable terms govern the use of the program itself. Inclusion of Gaussian input files, output files, or other generated materials in this repository does not grant a license to Gaussian software.
+
+## Disclaimer
+
+The repository materials are provided without warranties or guarantees of any kind, to the extent permitted by applicable law.
+
+No endorsement by the original authors, their institutions, or any third-party software provider is implied by reuse of these materials.
