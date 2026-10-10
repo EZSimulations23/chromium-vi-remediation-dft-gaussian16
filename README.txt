@@ -1,3 +1,6 @@
+DOI: 10.5281/zenodo.23275248
+
+
 # Chromium(VI) Remediation — Gaussian-16 Computational Data
 
 Computational data and supporting analyses for the research article:
