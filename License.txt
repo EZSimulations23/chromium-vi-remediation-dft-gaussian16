@@ -1,4 +1,7 @@
-DOI: 10.5281/zenodo.23275248
+**Archived Repository (Zenodo)**
+
+- **Version-specific DOI (permanent; this release):** https://doi.org/10.5281/zenodo.23275248
+- **Concept DOI (all versions; updated with subsequent releases):** https://doi.org/10.5281/zenodo.23275247
 
 # License
 
